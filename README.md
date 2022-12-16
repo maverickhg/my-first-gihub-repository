@@ -1,1 +1,1 @@
-# my-first-gihub-repository
+# my-first-github-repository
